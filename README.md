@@ -1,6 +1,8 @@
 Freepbx Smarthome Routes Module
 ===============================
 
+Very simple FreePBX module that creates a MySQL database for names, phone numbers and a third field for destination. Primarily for use in conjunction with inbound routing modules to direct calls based on the result of a MySQL query.
+
 Forked for personal use from:</p>
 http://www.eventhorizons.com/CIDrouting/
 
