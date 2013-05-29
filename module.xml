@@ -1,0 +1,14 @@
+<module>
+	<rawname>smarthomeroute</rawname>
+	<name>SmartHome Route DB</name>
+	<version>1.0.0.0</version>
+	<type>tool</type>
+	<category>Third Party Addon</category>
+	<menuitems>
+		<smarthomeroute>SmartHome Routes</smarthomeroute>
+	</menuitems>
+	<changelog>
+		*1.0.0* Modified from CustomerDB
+	</changelog>
+</module>
+
